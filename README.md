@@ -2,4 +2,4 @@
 
 - personal portfolio website for desktop and mobile devices, built using HTML, CSS, and JavaScript.
  
-[Portfolio](https://kipronohvincent.github.io/portfolio/)
+[Portfolio](https://github.com/zebbyG/My-portfolio/)
